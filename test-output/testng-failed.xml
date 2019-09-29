@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SauceDemoFW]">
+  <listeners>
+    <listener class-name="com.SwagLabs.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="SwagLabs Test(failed)">
+    <parameter name="browser" value="Firefox"/>
+    <classes>
+      <class name="com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_02">
+        <methods>
+          <include name="setup"/>
+          <include name="loginTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_02 -->
+      <class name="com.SwagLabs.testCases.TC_LoginTest_01">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.SwagLabs.testCases.TC_LoginTest_01 -->
+      <class name="com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_03">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_03 -->
+    </classes>
+  </test> <!-- SwagLabs Test(failed) -->
+</suite> <!-- Failed suite [SauceDemoFW] -->

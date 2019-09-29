@@ -1,0 +1,1200 @@
+2018-11-22 08:06:42,392 - ebanking -INFO - URL is opened
+2018-11-22 08:06:42,718 - ebanking -INFO - Entered username
+2018-11-22 08:06:42,945 - ebanking -INFO - Entered password
+2018-11-22 08:06:44,340 - ebanking -INFO - Login test passed
+2018-11-23 06:59:39,910 - ebanking -INFO - URL is opened
+2018-11-23 06:59:40,159 - ebanking -INFO - Entered username
+2018-11-23 06:59:40,342 - ebanking -INFO - Entered password
+2018-11-23 06:59:42,544 - ebanking -INFO - Login test passed
+2018-11-23 07:10:35,432 - ebanking -INFO - URL is opened
+2018-11-23 07:10:35,755 - ebanking -INFO - Entered username
+2018-11-23 07:10:35,968 - ebanking -INFO - Entered password
+2018-11-23 07:10:37,326 - ebanking -INFO - Login test passed
+2018-11-23 07:13:11,746 - ebanking -INFO - URL is opened
+2018-11-23 07:13:17,047 - ebanking -INFO - Entered username
+2018-11-23 07:13:18,666 - ebanking -INFO - Entered password
+2018-11-23 07:13:20,989 - ebanking -INFO - Login test passed
+2018-11-23 07:14:14,479 - ebanking -INFO - URL is opened
+2018-11-23 07:14:14,978 - ebanking -INFO - Entered username
+2018-11-23 07:14:15,207 - ebanking -INFO - Entered password
+2018-11-23 07:14:18,038 - ebanking -INFO - Login test passed
+2018-11-23 07:30:16,264 - ebanking -INFO - URL is opened
+2018-11-23 07:30:16,696 - ebanking -INFO - Entered username
+2018-11-23 07:30:16,925 - ebanking -INFO - Entered password
+2018-11-23 07:30:18,507 - ebanking -INFO - Login test passed
+2018-11-24 06:39:12,523 - ebanking -INFO - URL is opened
+2018-11-24 06:39:12,827 - ebanking -INFO - Entered username
+2018-11-24 06:39:12,971 - ebanking -INFO - Entered password
+2018-11-24 07:23:31,087 - ebanking -INFO - user name provided
+2018-11-24 07:23:31,338 - ebanking -INFO - password provided
+2018-11-24 07:23:35,883 - ebanking -INFO - Login passed
+2018-11-24 07:23:41,171 - ebanking -INFO - user name provided
+2018-11-24 07:23:41,940 - ebanking -INFO - password provided
+2018-11-24 07:23:46,801 - ebanking -INFO - user name provided
+2018-11-24 07:23:47,182 - ebanking -INFO - password provided
+2018-11-24 07:23:51,933 - ebanking -INFO - user name provided
+2018-11-24 07:23:52,219 - ebanking -INFO - password provided
+2018-11-24 07:23:56,749 - ebanking -INFO - Login passed
+2018-11-24 07:24:02,347 - ebanking -INFO - user name provided
+2018-11-24 07:24:02,560 - ebanking -INFO - password provided
+2018-11-24 07:54:34,201 - ebanking -INFO - User name is provided
+2018-11-24 07:54:34,418 - ebanking -INFO - Passsword is provided
+2018-11-24 07:54:39,590 - ebanking -INFO - providing customer details....
+2018-11-24 07:54:48,653 - ebanking -INFO - validation started....
+2018-11-24 07:54:48,730 - ebanking -INFO - test case passed....
+2018-11-24 07:56:49,183 - ebanking -INFO - URL is opened
+2018-11-24 07:56:49,436 - ebanking -INFO - Entered username
+2018-11-24 07:56:49,618 - ebanking -INFO - Entered password
+2018-11-24 07:57:00,690 - ebanking -INFO - user name provided
+2018-11-24 07:57:00,836 - ebanking -INFO - password provided
+2018-11-24 07:57:05,351 - ebanking -INFO - Login passed
+2018-11-24 07:57:12,654 - ebanking -INFO - user name provided
+2018-11-24 07:57:12,863 - ebanking -INFO - password provided
+2018-11-24 07:57:19,331 - ebanking -INFO - user name provided
+2018-11-24 07:57:19,521 - ebanking -INFO - password provided
+2018-11-24 07:57:25,056 - ebanking -INFO - user name provided
+2018-11-24 07:57:25,176 - ebanking -INFO - password provided
+2018-11-24 07:57:29,487 - ebanking -INFO - Login passed
+2018-11-24 07:57:36,479 - ebanking -INFO - user name provided
+2018-11-24 07:57:36,615 - ebanking -INFO - password provided
+2018-11-24 07:57:48,990 - ebanking -INFO - User name is provided
+2018-11-24 07:57:49,140 - ebanking -INFO - Passsword is provided
+2018-11-24 07:57:54,290 - ebanking -INFO - providing customer details....
+2018-11-24 07:58:03,372 - ebanking -INFO - validation started....
+2018-11-24 07:58:03,393 - ebanking -INFO - test case passed....
+2018-11-24 08:00:42,420 - ebanking -INFO - user name provided
+2018-11-24 08:00:42,689 - ebanking -INFO - password provided
+2018-11-24 08:00:48,510 - ebanking -INFO - user name provided
+2018-11-24 08:00:48,822 - ebanking -INFO - password provided
+2018-11-24 08:00:54,700 - ebanking -INFO - user name provided
+2018-11-24 08:00:55,015 - ebanking -INFO - password provided
+2018-11-24 08:01:06,498 - ebanking -INFO - URL is opened
+2018-11-24 08:01:06,690 - ebanking -INFO - Entered username
+2018-11-24 08:01:06,863 - ebanking -INFO - Entered password
+2018-11-24 08:01:08,353 - ebanking -INFO - Login test passed
+2018-11-27 06:46:57,598 - ebanking -INFO - URL is opened
+2018-11-27 06:46:57,912 - ebanking -INFO - Entered username
+2018-11-27 06:46:58,082 - ebanking -INFO - Entered password
+2018-11-27 06:46:59,490 - ebanking -INFO - Login test passed
+2018-11-27 06:47:06,753 - ebanking -INFO - User name is provided
+2018-11-27 06:47:06,945 - ebanking -INFO - Passsword is provided
+2018-11-27 06:47:12,518 - ebanking -INFO - providing customer details....
+2018-11-27 06:47:22,094 - ebanking -INFO - validation started....
+2018-11-27 06:47:22,128 - ebanking -INFO - test case passed....
+2018-11-27 07:07:41,422 - ebanking -INFO - URL is opened
+2018-11-27 07:07:41,799 - ebanking -INFO - Entered username
+2018-11-27 07:07:42,010 - ebanking -INFO - Entered password
+2018-11-27 07:07:44,072 - ebanking -INFO - Login test passed
+2018-11-27 07:07:51,443 - ebanking -INFO - User name is provided
+2018-11-27 07:07:51,664 - ebanking -INFO - Passsword is provided
+2018-11-27 07:07:57,563 - ebanking -INFO - providing customer details....
+2018-11-27 07:08:06,501 - ebanking -INFO - validation started....
+2018-11-27 07:09:27,107 - ebanking -INFO - URL is opened
+2018-11-27 07:09:27,361 - ebanking -INFO - Entered username
+2018-11-27 07:09:27,590 - ebanking -INFO - Entered password
+2018-11-27 07:09:29,131 - ebanking -INFO - Login test passed
+2018-11-27 07:09:37,089 - ebanking -INFO - User name is provided
+2018-11-27 07:09:37,251 - ebanking -INFO - Passsword is provided
+2018-11-27 07:09:43,571 - ebanking -INFO - providing customer details....
+2018-11-27 07:09:56,913 - ebanking -INFO - validation started....
+2018-11-27 07:09:56,947 - ebanking -INFO - test case passed....
+2018-11-27 07:13:55,575 - ebanking -INFO - URL is opened
+2018-11-27 07:13:55,850 - ebanking -INFO - Entered username
+2018-11-27 07:13:56,057 - ebanking -INFO - Entered password
+2018-11-27 07:13:57,451 - ebanking -INFO - Login test passed
+2018-11-27 07:14:04,781 - ebanking -INFO - User name is provided
+2018-11-27 07:14:04,918 - ebanking -INFO - Passsword is provided
+2018-11-27 07:14:10,040 - ebanking -INFO - providing customer details....
+2018-11-27 07:14:21,394 - ebanking -INFO - validation started....
+2018-11-27 07:14:21,430 - ebanking -INFO - test case passed....
+2018-11-27 07:42:32,801 - ebanking -INFO - URL is opened
+2018-11-27 07:42:33,008 - ebanking -INFO - Entered username
+2018-11-27 07:42:33,130 - ebanking -INFO - Entered password
+2018-11-27 07:42:36,278 - ebanking -INFO - Login test passed
+2018-11-27 07:42:43,914 - ebanking -INFO - User name is provided
+2018-11-27 07:42:44,046 - ebanking -INFO - Passsword is provided
+2018-11-27 07:42:49,371 - ebanking -INFO - providing customer details....
+2018-11-27 07:43:02,036 - ebanking -INFO - validation started....
+2018-11-27 07:43:02,081 - ebanking -INFO - test case passed....
+2018-11-27 07:55:25,354 - ebanking -INFO - URL is opened
+2018-11-27 07:55:26,413 - ebanking -INFO - Entered username
+2018-11-27 07:55:26,604 - ebanking -INFO - Entered password
+2018-11-27 07:55:27,991 - ebanking -INFO - Login test passed
+2018-11-27 07:55:37,183 - ebanking -INFO - User name is provided
+2018-11-27 07:55:37,365 - ebanking -INFO - Passsword is provided
+2018-11-27 07:55:42,851 - ebanking -INFO - providing customer details....
+2018-11-27 07:55:58,716 - ebanking -INFO - validation started....
+2018-11-27 07:55:58,749 - ebanking -INFO - test case passed....
+2019-09-27 23:55:11,131 - ebanking -INFO - URL is opened
+2019-09-27 23:55:11,524 - ebanking -INFO - Entered username
+2019-09-27 23:55:11,611 - ebanking -INFO - Entered password
+2019-09-27 23:55:14,194 - ebanking -INFO - User name is provided
+2019-09-27 23:55:14,264 - ebanking -INFO - Passsword is provided
+2019-09-28 00:10:26,123 - ebanking -INFO - URL is opened
+2019-09-28 00:10:26,524 - ebanking -INFO - Entered username
+2019-09-28 00:10:26,598 - ebanking -INFO - Entered password
+2019-09-28 00:10:29,441 - ebanking -INFO - User name is provided
+2019-09-28 00:10:29,505 - ebanking -INFO - Passsword is provided
+2019-09-28 00:13:29,416 - ebanking -INFO - URL is opened
+2019-09-28 00:13:29,735 - ebanking -INFO - Entered username
+2019-09-28 00:13:29,810 - ebanking -INFO - Entered password
+2019-09-28 00:13:32,796 - ebanking -INFO - User name is provided
+2019-09-28 00:13:32,893 - ebanking -INFO - Passsword is provided
+2019-09-28 11:06:39,687 - ebanking -INFO - URL is opened
+2019-09-28 11:06:40,062 - ebanking -INFO - Entered username
+2019-09-28 11:06:40,166 - ebanking -INFO - Entered password
+2019-09-28 11:06:43,112 - ebanking -INFO - User name is provided
+2019-09-28 11:06:43,204 - ebanking -INFO - Passsword is provided
+2019-09-28 11:38:32,181 - ebanking -INFO - URL is opened
+2019-09-28 11:38:32,538 - ebanking -INFO - Entered username
+2019-09-28 11:38:32,628 - ebanking -INFO - Entered password
+2019-09-28 11:38:35,355 - ebanking -INFO - User name is provided
+2019-09-28 11:38:35,444 - ebanking -INFO - Passsword is provided
+2019-09-28 11:42:52,399 - ebanking -INFO - URL is opened
+2019-09-28 11:42:52,763 - ebanking -INFO - Entered username
+2019-09-28 11:42:52,876 - ebanking -INFO - Entered password
+2019-09-28 11:42:55,785 - ebanking -INFO - User name is provided
+2019-09-28 11:42:55,891 - ebanking -INFO - Passsword is provided
+2019-09-28 12:24:18,506 - ebanking -INFO - URL is opened
+2019-09-28 12:37:47,776 - ebanking -INFO - URL is opened
+2019-09-28 12:37:48,007 - ebanking -INFO - Entered username
+2019-09-28 12:37:48,129 - ebanking -INFO - Entered password
+2019-09-28 12:38:03,164 - ebanking -INFO - User name is provided
+2019-09-28 12:38:03,283 - ebanking -INFO - Passsword is provided
+2019-09-28 12:39:03,567 - ebanking -INFO - URL is opened
+2019-09-28 12:39:03,781 - ebanking -INFO - Entered username
+2019-09-28 12:39:03,913 - ebanking -INFO - Entered password
+2019-09-28 12:39:12,641 - ebanking -INFO - User name is provided
+2019-09-28 12:39:12,769 - ebanking -INFO - Passsword is provided
+2019-09-28 12:40:23,087 - ebanking -INFO - URL is opened
+2019-09-28 12:40:23,306 - ebanking -INFO - Entered username
+2019-09-28 12:40:23,409 - ebanking -INFO - Entered password
+2019-09-28 12:40:32,804 - ebanking -INFO - User name is provided
+2019-09-28 12:40:32,927 - ebanking -INFO - Passsword is provided
+2019-09-28 12:40:58,220 - ebanking -INFO - URL is opened
+2019-09-28 12:40:58,444 - ebanking -INFO - Entered username
+2019-09-28 12:40:58,552 - ebanking -INFO - Entered password
+2019-09-28 12:41:05,989 - ebanking -INFO - User name is provided
+2019-09-28 12:41:06,079 - ebanking -INFO - Passsword is provided
+2019-09-28 12:46:17,768 - ebanking -INFO - URL is opened
+2019-09-28 12:46:17,989 - ebanking -INFO - Entered username
+2019-09-28 12:46:18,137 - ebanking -INFO - Entered password
+2019-09-28 12:46:20,057 - ebanking -INFO - User name is provided
+2019-09-28 12:46:20,183 - ebanking -INFO - Passsword is provided
+2019-09-28 13:53:50,594 - ebanking -INFO - URL is opened
+2019-09-28 13:53:50,815 - ebanking -INFO - Entered username
+2019-09-28 13:53:50,963 - ebanking -INFO - Entered password
+2019-09-28 13:53:53,042 - ebanking -INFO - User name is provided
+2019-09-28 13:53:53,170 - ebanking -INFO - Passsword is provided
+2019-09-28 13:56:08,882 - ebanking -INFO - URL is opened
+2019-09-28 13:56:09,114 - ebanking -INFO - Entered username
+2019-09-28 13:56:09,234 - ebanking -INFO - Entered password
+2019-09-28 13:56:11,089 - ebanking -INFO - User name is provided
+2019-09-28 13:56:11,219 - ebanking -INFO - Passsword is provided
+2019-09-28 14:07:45,434 - ebanking -INFO - URL is opened
+2019-09-28 14:07:45,651 - ebanking -INFO - Entered username
+2019-09-28 14:07:45,788 - ebanking -INFO - Entered password
+2019-09-28 14:07:47,608 - ebanking -INFO - User name is provided
+2019-09-28 14:07:47,754 - ebanking -INFO - Passsword is provided
+2019-09-28 14:13:47,554 - ebanking -INFO - URL is opened
+2019-09-28 14:13:47,777 - ebanking -INFO - Entered username
+2019-09-28 14:13:47,902 - ebanking -INFO - Entered password
+2019-09-28 14:13:49,839 - ebanking -INFO - User name is provided
+2019-09-28 14:13:49,981 - ebanking -INFO - Passsword is provided
+2019-09-28 17:22:12,134 - ebanking -INFO - URL is opened
+2019-09-28 17:22:12,357 - ebanking -INFO - Entered username
+2019-09-28 17:22:12,483 - ebanking -INFO - Entered password
+2019-09-28 17:22:14,518 - ebanking -INFO - User name is provided
+2019-09-28 17:22:14,637 - ebanking -INFO - Passsword is provided
+2019-09-28 17:39:03,043 - ebanking -INFO - URL is opened
+2019-09-28 17:39:03,276 - ebanking -INFO - Entered username
+2019-09-28 17:39:03,409 - ebanking -INFO - Entered password
+2019-09-28 17:39:06,218 - ebanking -INFO - User name is provided
+2019-09-28 17:39:06,349 - ebanking -INFO - Passsword is provided
+2019-09-28 17:46:55,246 - SwagLabs -INFO - URL is opened
+2019-09-28 17:46:55,464 - SwagLabs -INFO - Entered username
+2019-09-28 17:46:55,595 - SwagLabs -INFO - Entered password
+2019-09-28 17:46:57,504 - SwagLabs -INFO - User name is provided
+2019-09-28 17:46:57,635 - SwagLabs -INFO - Passsword is provided
+2019-09-28 17:48:10,177 - SwagLabs -INFO - URL is opened
+2019-09-28 17:48:10,401 - SwagLabs -INFO - Entered username
+2019-09-28 17:48:10,536 - SwagLabs -INFO - Entered password
+2019-09-28 17:48:12,389 - SwagLabs -INFO - User name is provided
+2019-09-28 17:48:12,521 - SwagLabs -INFO - Passsword is provided
+2019-09-28 19:52:39,702 - SwagLabs -INFO - URL is opened
+2019-09-28 19:52:39,931 - SwagLabs -INFO - Entered username
+2019-09-28 19:52:40,066 - SwagLabs -INFO - Entered password
+2019-09-28 19:52:51,172 - SwagLabs -INFO - User name is provided
+2019-09-28 19:52:51,298 - SwagLabs -INFO - Passsword is provided
+2019-09-28 19:53:20,245 - SwagLabs -INFO - URL is opened
+2019-09-28 19:53:20,455 - SwagLabs -INFO - Entered username
+2019-09-28 19:53:20,583 - SwagLabs -INFO - Entered password
+2019-09-28 19:53:22,735 - SwagLabs -INFO - User name is provided
+2019-09-28 19:53:22,903 - SwagLabs -INFO - Passsword is provided
+2019-09-28 19:53:46,054 - SwagLabs -INFO - URL is opened
+2019-09-28 19:53:46,272 - SwagLabs -INFO - Entered username
+2019-09-28 19:53:46,418 - SwagLabs -INFO - Entered password
+2019-09-28 19:53:48,170 - SwagLabs -INFO - User name is provided
+2019-09-28 19:53:48,314 - SwagLabs -INFO - Passsword is provided
+2019-09-28 19:58:08,601 - SwagLabs -INFO - URL is opened
+2019-09-28 19:58:08,828 - SwagLabs -INFO - Entered username
+2019-09-28 19:58:08,964 - SwagLabs -INFO - Entered password
+2019-09-28 19:58:10,852 - SwagLabs -INFO - User name is provided
+2019-09-28 19:58:10,988 - SwagLabs -INFO - Passsword is provided
+2019-09-28 20:01:14,369 - ebanking -INFO - URL is opened
+2019-09-28 20:01:14,578 - ebanking -INFO - Entered username
+2019-09-28 20:01:14,729 - ebanking -INFO - Entered password
+2019-09-28 20:01:16,558 - ebanking -INFO - User name is provided
+2019-09-28 20:01:16,679 - ebanking -INFO - Passsword is provided
+2019-09-28 20:09:21,053 - ebanking -INFO - URL is opened
+2019-09-28 20:09:21,268 - ebanking -INFO - Entered username
+2019-09-28 20:09:21,420 - ebanking -INFO - Entered password
+2019-09-28 20:13:14,259 - ebanking -INFO - URL is opened
+2019-09-28 20:13:14,476 - ebanking -INFO - Entered username
+2019-09-28 20:13:14,611 - ebanking -INFO - Entered password
+2019-09-28 20:14:01,205 - ebanking -INFO - URL is opened
+2019-09-28 20:14:01,416 - ebanking -INFO - Entered username
+2019-09-28 20:14:01,548 - ebanking -INFO - Entered password
+2019-09-28 20:15:18,062 - ebanking -INFO - URL is opened
+2019-09-28 20:15:18,276 - ebanking -INFO - Entered username
+2019-09-28 20:15:18,407 - ebanking -INFO - Entered password
+2019-09-28 20:27:51,641 - ebanking -INFO - URL is opened
+2019-09-28 20:46:22,531 - ebanking -INFO - URL is opened
+2019-09-28 20:46:22,739 - ebanking -INFO - Entered username
+2019-09-28 20:46:22,874 - ebanking -INFO - Entered password
+2019-09-28 20:46:30,799 - ebanking -INFO - Clicked on submit button
+2019-09-28 20:52:31,506 - ebanking -INFO - URL is opened
+2019-09-28 20:52:31,721 - ebanking -INFO - Entered username
+2019-09-28 20:52:31,852 - ebanking -INFO - Entered password
+2019-09-28 20:52:38,457 - ebanking -INFO - Clicked on submit button
+2019-09-28 20:53:12,489 - ebanking -INFO - URL is opened
+2019-09-28 20:53:12,703 - ebanking -INFO - Entered username
+2019-09-28 20:53:12,836 - ebanking -INFO - Entered password
+2019-09-28 20:53:20,559 - ebanking -INFO - Clicked on submit button
+2019-09-28 20:59:58,248 - ebanking -INFO - URL is opened
+2019-09-28 20:59:58,451 - ebanking -INFO - Entered username
+2019-09-28 20:59:58,579 - ebanking -INFO - Entered password
+2019-09-28 21:00:05,398 - ebanking -INFO - Clicked on login button
+2019-09-28 21:00:05,466 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 21:00:05,650 - ebanking -INFO - Click on sing out button
+2019-09-28 21:00:05,659 - ebanking -INFO - Login Test Passed
+2019-09-28 21:01:40,233 - ebanking -INFO - URL is opened
+2019-09-28 21:01:40,450 - ebanking -INFO - Entered username
+2019-09-28 21:01:40,579 - ebanking -INFO - Entered password
+2019-09-28 21:01:47,466 - ebanking -INFO - Clicked on login button
+2019-09-28 21:01:47,537 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 21:01:49,650 - ebanking -INFO - Click on sing out button
+2019-09-28 21:01:49,659 - ebanking -INFO - Login Test Passed
+2019-09-28 21:02:29,417 - ebanking -INFO - URL is opened
+2019-09-28 21:02:29,625 - ebanking -INFO - Entered username
+2019-09-28 21:02:29,750 - ebanking -INFO - Entered password
+2019-09-28 21:02:36,369 - ebanking -INFO - Clicked on login button
+2019-09-28 21:02:36,419 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 21:02:38,551 - ebanking -INFO - Click on sing out button
+2019-09-28 21:02:40,569 - ebanking -INFO - Login Test Passed
+2019-09-28 21:24:48,715 - ebanking -INFO - URL is opened
+2019-09-28 21:24:48,929 - ebanking -INFO - Entered username
+2019-09-28 21:24:49,067 - ebanking -INFO - Entered password
+2019-09-28 21:24:49,738 - ebanking -INFO - Clicked on login button
+2019-09-28 21:24:50,192 - ebanking -INFO - Clicked on login back pack
+2019-09-28 21:25:00,254 - ebanking -INFO - URL is opened
+2019-09-28 21:28:17,190 - ebanking -INFO - URL is opened
+2019-09-28 21:28:17,404 - ebanking -INFO - Entered username
+2019-09-28 21:28:17,550 - ebanking -INFO - Entered password
+2019-09-28 21:28:18,112 - ebanking -INFO - Clicked on login button
+2019-09-28 21:28:18,240 - ebanking -INFO - Clicked on login back pack
+2019-09-28 21:28:28,312 - ebanking -INFO - URL is opened
+2019-09-28 21:52:50,649 - ebanking -INFO - URL is opened
+2019-09-28 21:52:50,862 - ebanking -INFO - Entered username
+2019-09-28 21:52:50,997 - ebanking -INFO - Entered password
+2019-09-28 21:52:51,794 - ebanking -INFO - Clicked on login button
+2019-09-28 21:52:51,960 - ebanking -INFO - Clicked on login back pack
+2019-09-28 21:52:52,018 - ebanking -INFO - Clicked on add to cart
+2019-09-28 21:53:02,076 - ebanking -INFO - URL is opened
+2019-09-28 21:53:32,600 - ebanking -INFO - URL is opened
+2019-09-28 21:53:32,807 - ebanking -INFO - Entered username
+2019-09-28 21:53:32,940 - ebanking -INFO - Entered password
+2019-09-28 21:53:33,480 - ebanking -INFO - Clicked on login button
+2019-09-28 21:53:33,740 - ebanking -INFO - Clicked on login back pack
+2019-09-28 21:53:33,801 - ebanking -INFO - Clicked on add to cart
+2019-09-28 21:53:40,972 - ebanking -INFO - URL is opened
+2019-09-28 21:56:40,844 - ebanking -INFO - URL is opened
+2019-09-28 21:56:41,062 - ebanking -INFO - Entered username
+2019-09-28 21:56:41,179 - ebanking -INFO - Entered password
+2019-09-28 21:56:41,651 - ebanking -INFO - Clicked on login button
+2019-09-28 21:56:41,785 - ebanking -INFO - Clicked on login back pack
+2019-09-28 21:56:41,844 - ebanking -INFO - Clicked on add to cart
+2019-09-28 21:56:50,748 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 21:56:55,296 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-28 21:56:55,313 - ebanking -INFO - Login Test Passed
+2019-09-28 21:56:55,324 - ebanking -INFO - URL is opened
+2019-09-28 22:02:17,025 - ebanking -INFO - URL is opened
+2019-09-28 22:02:17,294 - ebanking -INFO - Entered username
+2019-09-28 22:02:17,487 - ebanking -INFO - Entered password
+2019-09-28 22:02:18,257 - ebanking -INFO - Clicked on login button
+2019-09-28 22:02:18,403 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:02:18,484 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:02:18,647 - ebanking -INFO - Click on back button
+2019-09-28 22:02:18,796 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:02:18,864 - ebanking -INFO - URL is opened
+2019-09-28 22:04:59,195 - ebanking -INFO - URL is opened
+2019-09-28 22:04:59,475 - ebanking -INFO - Entered username
+2019-09-28 22:04:59,650 - ebanking -INFO - Entered password
+2019-09-28 22:05:00,609 - ebanking -INFO - Clicked on login button
+2019-09-28 22:05:00,656 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 22:05:01,216 - ebanking -INFO - Click on sing out button
+2019-09-28 22:05:01,231 - ebanking -INFO - Login Test Passed
+2019-09-28 22:15:31,021 - ebanking -INFO - URL is opened
+2019-09-28 22:15:31,289 - ebanking -INFO - Entered username
+2019-09-28 22:15:31,473 - ebanking -INFO - Entered password
+2019-09-28 22:15:32,586 - ebanking -INFO - Clicked on login button
+2019-09-28 22:15:32,658 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 22:15:32,850 - ebanking -INFO - Click on sing out button
+2019-09-28 22:15:32,860 - ebanking -INFO - Login Test Passed
+2019-09-28 22:15:34,627 - ebanking -INFO - URL is opened
+2019-09-28 22:15:34,820 - ebanking -INFO - Entered username
+2019-09-28 22:15:34,953 - ebanking -INFO - Entered password
+2019-09-28 22:15:35,752 - ebanking -INFO - Clicked on login button
+2019-09-28 22:15:35,939 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:15:36,014 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:15:36,111 - ebanking -INFO - Click on back button
+2019-09-28 22:15:36,405 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:20:54,377 - ebanking -INFO - URL is opened
+2019-09-28 22:20:54,663 - ebanking -INFO - Entered username
+2019-09-28 22:20:54,814 - ebanking -INFO - Entered password
+2019-09-28 22:20:55,699 - ebanking -INFO - Clicked on login button
+2019-09-28 22:20:55,848 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:20:55,964 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:20:56,117 - ebanking -INFO - Click on back button
+2019-09-28 22:20:56,345 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:23:00,947 - ebanking -INFO - URL is opened
+2019-09-28 22:23:01,188 - ebanking -INFO - Entered username
+2019-09-28 22:23:01,363 - ebanking -INFO - Entered password
+2019-09-28 22:23:02,459 - ebanking -INFO - Clicked on login button
+2019-09-28 22:23:02,614 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:23:02,668 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:23:02,795 - ebanking -INFO - Click on back button
+2019-09-28 22:23:02,962 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:23:21,324 - ebanking -INFO - URL is opened
+2019-09-28 22:23:21,613 - ebanking -INFO - Entered username
+2019-09-28 22:23:21,785 - ebanking -INFO - Entered password
+2019-09-28 22:23:23,033 - ebanking -INFO - Clicked on login button
+2019-09-28 22:23:23,196 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:23:23,266 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:23:23,317 - ebanking -INFO - Click on back button
+2019-09-28 22:23:23,613 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:32:41,781 - ebanking -INFO - URL is opened
+2019-09-28 22:32:42,039 - ebanking -INFO - Entered username
+2019-09-28 22:32:42,220 - ebanking -INFO - Entered password
+2019-09-28 22:32:43,269 - ebanking -INFO - Clicked on login button
+2019-09-28 22:32:43,432 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:32:43,490 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:32:43,601 - ebanking -INFO - Click on back button
+2019-09-28 22:32:43,773 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:32:47,824 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 22:32:48,072 - ebanking -INFO - Clicked on All Items
+2019-09-28 22:32:48,227 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-28 22:32:48,227 - ebanking -INFO - Test completed
+2019-09-28 22:34:04,683 - ebanking -INFO - URL is opened
+2019-09-28 22:34:04,917 - ebanking -INFO - Entered username
+2019-09-28 22:34:05,040 - ebanking -INFO - Entered password
+2019-09-28 22:34:05,994 - ebanking -INFO - Clicked on login button
+2019-09-28 22:34:06,164 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:34:06,238 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:34:06,288 - ebanking -INFO - Click on back button
+2019-09-28 22:34:06,471 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:34:06,527 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 22:34:06,758 - ebanking -INFO - Clicked on All Items
+2019-09-28 22:34:06,920 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-28 22:34:06,920 - ebanking -INFO - Test completed
+2019-09-28 22:34:26,595 - ebanking -INFO - URL is opened
+2019-09-28 22:34:26,811 - ebanking -INFO - Entered username
+2019-09-28 22:34:26,946 - ebanking -INFO - Entered password
+2019-09-28 22:34:28,566 - ebanking -INFO - Clicked on login button
+2019-09-28 22:34:28,984 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:34:29,044 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:34:29,212 - ebanking -INFO - Click on back button
+2019-09-28 22:34:29,358 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:34:29,429 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 22:34:29,706 - ebanking -INFO - Clicked on All Items
+2019-09-28 22:34:29,879 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-28 22:34:29,879 - ebanking -INFO - Test completed
+2019-09-28 22:41:20,425 - ebanking -INFO - URL is opened
+2019-09-28 22:41:20,670 - ebanking -INFO - Entered username
+2019-09-28 22:41:20,802 - ebanking -INFO - Entered password
+2019-09-28 22:41:21,550 - ebanking -INFO - Clicked on login button
+2019-09-28 22:41:21,714 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:41:21,782 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:41:21,896 - ebanking -INFO - Click on back button
+2019-09-28 22:41:22,050 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:41:22,129 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 22:41:22,420 - ebanking -INFO - Clicked on All Items
+2019-09-28 22:41:22,552 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-28 22:41:22,553 - ebanking -INFO - Test completed
+2019-09-28 22:49:41,203 - ebanking -INFO - URL is opened
+2019-09-28 22:49:41,425 - ebanking -INFO - Entered username
+2019-09-28 22:49:41,555 - ebanking -INFO - Entered password
+2019-09-28 22:49:42,272 - ebanking -INFO - Clicked on login button
+2019-09-28 22:49:42,442 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:49:42,495 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:49:42,590 - ebanking -INFO - Click on back button
+2019-09-28 22:49:42,775 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:49:42,827 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 22:49:43,049 - ebanking -INFO - Clicked on All Items
+2019-09-28 22:49:43,203 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-28 22:49:43,203 - ebanking -INFO - Test completed
+2019-09-28 22:50:25,510 - ebanking -INFO - URL is opened
+2019-09-28 22:50:25,735 - ebanking -INFO - Entered username
+2019-09-28 22:50:25,865 - ebanking -INFO - Entered password
+2019-09-28 22:50:26,445 - ebanking -INFO - Clicked on login button
+2019-09-28 22:50:26,574 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:50:26,633 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:50:26,759 - ebanking -INFO - Click on back button
+2019-09-28 22:50:26,919 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:50:26,974 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 22:50:27,221 - ebanking -INFO - Clicked on All Items
+2019-09-28 22:50:27,393 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-28 22:50:27,393 - ebanking -INFO - Test completed
+2019-09-28 22:50:55,786 - ebanking -INFO - URL is opened
+2019-09-28 22:50:56,055 - ebanking -INFO - Entered username
+2019-09-28 22:50:56,174 - ebanking -INFO - Entered password
+2019-09-28 22:50:57,027 - ebanking -INFO - Clicked on login button
+2019-09-28 22:50:57,180 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:50:57,234 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:50:57,293 - ebanking -INFO - Click on back button
+2019-09-28 22:50:57,459 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:50:57,539 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 22:50:57,786 - ebanking -INFO - Clicked on All Items
+2019-09-28 22:50:57,949 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-28 22:50:57,949 - ebanking -INFO - Test completed
+2019-09-28 22:52:05,638 - ebanking -INFO - URL is opened
+2019-09-28 22:52:05,852 - ebanking -INFO - Entered username
+2019-09-28 22:52:05,966 - ebanking -INFO - Entered password
+2019-09-28 22:52:06,489 - ebanking -INFO - Clicked on login button
+2019-09-28 22:52:06,630 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:52:06,683 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:52:06,773 - ebanking -INFO - Click on back button
+2019-09-28 22:52:06,985 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:52:07,054 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 22:52:07,326 - ebanking -INFO - Clicked on All Items
+2019-09-28 22:52:07,482 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-28 22:52:07,483 - ebanking -INFO - Test completed
+2019-09-28 22:54:06,360 - ebanking -INFO - URL is opened
+2019-09-28 22:54:06,583 - ebanking -INFO - Entered username
+2019-09-28 22:54:06,708 - ebanking -INFO - Entered password
+2019-09-28 22:54:07,708 - ebanking -INFO - Clicked on login button
+2019-09-28 22:54:07,881 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:54:07,938 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:54:08,081 - ebanking -INFO - Click on back button
+2019-09-28 22:54:08,207 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:54:08,285 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 22:54:08,545 - ebanking -INFO - Clicked on All Items
+2019-09-28 22:54:08,680 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-28 22:54:08,680 - ebanking -INFO - Test completed
+2019-09-28 22:56:22,210 - ebanking -INFO - URL is opened
+2019-09-28 22:56:22,427 - ebanking -INFO - Entered username
+2019-09-28 22:56:22,575 - ebanking -INFO - Entered password
+2019-09-28 22:56:23,213 - ebanking -INFO - Clicked on login button
+2019-09-28 22:56:23,337 - ebanking -INFO - Clicked on login back pack
+2019-09-28 22:56:27,395 - ebanking -INFO - Clicked on add to cart
+2019-09-28 22:56:33,457 - ebanking -INFO - Click on back button
+2019-09-28 22:56:39,593 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 22:56:45,647 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 22:56:51,814 - ebanking -INFO - Clicked on All Items
+2019-09-28 22:56:57,942 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-28 22:57:03,943 - ebanking -INFO - Test completed
+2019-09-28 23:02:19,314 - ebanking -INFO - URL is opened
+2019-09-28 23:02:19,545 - ebanking -INFO - Entered username
+2019-09-28 23:02:19,690 - ebanking -INFO - Entered password
+2019-09-28 23:02:20,630 - ebanking -INFO - Clicked on login button
+2019-09-28 23:02:20,835 - ebanking -INFO - Clicked on login back pack
+2019-09-28 23:02:24,894 - ebanking -INFO - Clicked on add to cart
+2019-09-28 23:02:31,085 - ebanking -INFO - Click on back button
+2019-09-28 23:02:37,234 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 23:02:43,290 - ebanking -INFO - Clicked on Menu Bar
+2019-09-28 23:02:49,460 - ebanking -INFO - Clicked on All Items
+2019-09-28 23:02:55,600 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-28 23:03:01,606 - ebanking -INFO - Test completed
+2019-09-28 23:07:05,523 - ebanking -INFO - URL is opened
+2019-09-28 23:07:05,737 - ebanking -INFO - Entered username
+2019-09-28 23:07:05,867 - ebanking -INFO - Entered password
+2019-09-28 23:07:06,503 - ebanking -INFO - Clicked on login button
+2019-09-28 23:07:06,630 - ebanking -INFO - Clicked on login back pack
+2019-09-28 23:07:10,688 - ebanking -INFO - Clicked on add to cart
+2019-09-28 23:07:16,750 - ebanking -INFO - Click on back button
+2019-09-28 23:07:22,876 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 23:20:45,706 - ebanking -INFO - URL is opened
+2019-09-28 23:20:45,935 - ebanking -INFO - Entered username
+2019-09-28 23:20:46,081 - ebanking -INFO - Entered password
+2019-09-28 23:20:46,784 - ebanking -INFO - Clicked on login button
+2019-09-28 23:20:46,917 - ebanking -INFO - Clicked on login back pack
+2019-09-28 23:20:50,972 - ebanking -INFO - Clicked on add to cart
+2019-09-28 23:20:57,157 - ebanking -INFO - Click on back button
+2019-09-28 23:21:03,306 - ebanking -INFO - Clicked on Bike Light
+2019-09-28 23:21:40,213 - ebanking -INFO - URL is opened
+2019-09-28 23:21:40,438 - ebanking -INFO - Entered username
+2019-09-28 23:21:40,552 - ebanking -INFO - Entered password
+2019-09-28 23:21:41,968 - ebanking -INFO - Clicked on login button
+2019-09-28 23:21:42,105 - ebanking -INFO - Clicked on login back pack
+2019-09-28 23:21:46,160 - ebanking -INFO - Clicked on add to cart
+2019-09-28 23:21:52,349 - ebanking -INFO - Click on back button
+2019-09-28 23:21:52,481 - ebanking -INFO - Clicked on Bike Light
+2019-09-29 01:23:49,956 - ebanking -INFO - URL is opened
+2019-09-29 01:23:50,180 - ebanking -INFO - Entered username
+2019-09-29 01:23:50,325 - ebanking -INFO - Entered password
+2019-09-29 01:23:52,140 - ebanking -INFO - Clicked on login button
+2019-09-29 01:23:52,295 - ebanking -INFO - Clicked on login back pack
+2019-09-29 01:23:56,351 - ebanking -INFO - Clicked on add to cart
+2019-09-29 01:24:02,408 - ebanking -INFO - Click on back button
+2019-09-29 01:24:02,689 - ebanking -INFO - Clicked on Bike Light
+2019-09-29 01:26:34,582 - ebanking -INFO - URL is opened
+2019-09-29 01:26:34,787 - ebanking -INFO - Entered username
+2019-09-29 01:26:34,934 - ebanking -INFO - Entered password
+2019-09-29 01:26:36,086 - ebanking -INFO - Clicked on login button
+2019-09-29 01:26:36,236 - ebanking -INFO - Clicked on login back pack
+2019-09-29 01:26:40,295 - ebanking -INFO - Clicked on add to cart
+2019-09-29 01:26:46,481 - ebanking -INFO - Click on back button
+2019-09-29 01:26:46,636 - ebanking -INFO - Clicked on Bike Light
+2019-09-29 01:27:40,865 - ebanking -INFO - URL is opened
+2019-09-29 01:27:41,082 - ebanking -INFO - Entered username
+2019-09-29 01:27:41,215 - ebanking -INFO - Entered password
+2019-09-29 01:27:42,548 - ebanking -INFO - Clicked on login button
+2019-09-29 01:27:42,694 - ebanking -INFO - Clicked on login back pack
+2019-09-29 01:27:46,754 - ebanking -INFO - Clicked on add to cart
+2019-09-29 01:27:52,944 - ebanking -INFO - Click on back button
+2019-09-29 01:27:53,096 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 01:29:06,651 - ebanking -INFO - URL is opened
+2019-09-29 01:29:06,871 - ebanking -INFO - Entered username
+2019-09-29 01:29:07,004 - ebanking -INFO - Entered password
+2019-09-29 01:29:08,103 - ebanking -INFO - Clicked on login button
+2019-09-29 01:29:08,268 - ebanking -INFO - Clicked on login back pack
+2019-09-29 01:29:08,338 - ebanking -INFO - Clicked on add to cart
+2019-09-29 01:29:08,451 - ebanking -INFO - Click on back button
+2019-09-29 01:29:08,612 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 01:47:32,164 - ebanking -INFO - URL is opened
+2019-09-29 01:47:32,373 - ebanking -INFO - Entered username
+2019-09-29 01:47:32,506 - ebanking -INFO - Entered password
+2019-09-29 01:47:33,406 - ebanking -INFO - Clicked on login button
+2019-09-29 01:47:33,589 - ebanking -INFO - Clicked on login back pack
+2019-09-29 01:47:33,645 - ebanking -INFO - Clicked on add to cart
+2019-09-29 01:53:40,954 - ebanking -INFO - URL is opened
+2019-09-29 01:53:41,192 - ebanking -INFO - Entered username
+2019-09-29 01:53:41,343 - ebanking -INFO - Entered password
+2019-09-29 01:53:43,745 - ebanking -INFO - Clicked on login button
+2019-09-29 01:53:43,875 - ebanking -INFO - Clicked on login back pack
+2019-09-29 01:53:43,961 - ebanking -INFO - Clicked on add to cart
+2019-09-29 02:07:06,131 - ebanking -INFO - URL is opened
+2019-09-29 02:07:06,339 - ebanking -INFO - Entered username
+2019-09-29 02:07:06,508 - ebanking -INFO - Entered password
+2019-09-29 02:07:08,480 - ebanking -INFO - Clicked on login button
+2019-09-29 02:07:08,622 - ebanking -INFO - Clicked on login back pack
+2019-09-29 02:07:08,674 - ebanking -INFO - Clicked on add to cart
+2019-09-29 02:09:03,078 - ebanking -INFO - URL is opened
+2019-09-29 02:09:03,294 - ebanking -INFO - Entered username
+2019-09-29 02:09:03,423 - ebanking -INFO - Entered password
+2019-09-29 02:09:04,440 - ebanking -INFO - Clicked on login button
+2019-09-29 02:09:04,888 - ebanking -INFO - Clicked on login back pack
+2019-09-29 02:09:04,969 - ebanking -INFO - Clicked on add to cart
+2019-09-29 02:10:05,784 - ebanking -INFO - URL is opened
+2019-09-29 02:10:06,023 - ebanking -INFO - Entered username
+2019-09-29 02:10:06,143 - ebanking -INFO - Entered password
+2019-09-29 02:10:07,026 - ebanking -INFO - Clicked on login button
+2019-09-29 02:10:07,180 - ebanking -INFO - Clicked on login back pack
+2019-09-29 02:10:07,256 - ebanking -INFO - Clicked on add to cart
+2019-09-29 02:10:07,646 - ebanking -INFO - Clicked on add Labs onesie
+2019-09-29 02:12:09,479 - ebanking -INFO - URL is opened
+2019-09-29 02:12:09,695 - ebanking -INFO - Entered username
+2019-09-29 02:12:09,829 - ebanking -INFO - Entered password
+2019-09-29 02:12:11,674 - ebanking -INFO - Clicked on login button
+2019-09-29 02:12:11,796 - ebanking -INFO - Clicked on login back pack
+2019-09-29 02:12:11,872 - ebanking -INFO - Clicked on add to cart
+2019-09-29 02:12:12,300 - ebanking -INFO - Clicked on add Labs onesie
+2019-09-29 02:24:40,761 - ebanking -INFO - URL is opened
+2019-09-29 02:24:40,961 - ebanking -INFO - Entered username
+2019-09-29 02:24:41,095 - ebanking -INFO - Entered password
+2019-09-29 02:24:42,872 - ebanking -INFO - Clicked on login button
+2019-09-29 02:24:43,014 - ebanking -INFO - Clicked on login back pack
+2019-09-29 02:24:43,091 - ebanking -INFO - Clicked on add to cart
+2019-09-29 02:25:41,215 - ebanking -INFO - URL is opened
+2019-09-29 02:25:41,509 - ebanking -INFO - Entered username
+2019-09-29 02:25:41,637 - ebanking -INFO - Entered password
+2019-09-29 02:25:42,499 - ebanking -INFO - Clicked on login button
+2019-09-29 02:25:42,666 - ebanking -INFO - Clicked on login back pack
+2019-09-29 02:25:42,716 - ebanking -INFO - Clicked on add to cart
+2019-09-29 02:26:50,385 - ebanking -INFO - URL is opened
+2019-09-29 02:26:50,606 - ebanking -INFO - Entered username
+2019-09-29 02:26:50,734 - ebanking -INFO - Entered password
+2019-09-29 02:26:51,556 - ebanking -INFO - Clicked on login button
+2019-09-29 02:26:51,687 - ebanking -INFO - Clicked on login back pack
+2019-09-29 02:26:51,747 - ebanking -INFO - Clicked on add to cart
+2019-09-29 12:05:05,700 - ebanking -INFO - URL is opened
+2019-09-29 12:05:05,929 - ebanking -INFO - Entered username
+2019-09-29 12:05:06,051 - ebanking -INFO - Entered password
+2019-09-29 12:05:08,448 - ebanking -INFO - Clicked on login button
+2019-09-29 12:05:09,164 - ebanking -INFO - Clicked on login back pack
+2019-09-29 12:05:09,233 - ebanking -INFO - Clicked on add to cart
+2019-09-29 12:07:12,357 - ebanking -INFO - URL is opened
+2019-09-29 12:07:12,608 - ebanking -INFO - Entered username
+2019-09-29 12:07:12,750 - ebanking -INFO - Entered password
+2019-09-29 12:07:13,306 - ebanking -INFO - Clicked on login button
+2019-09-29 12:07:13,470 - ebanking -INFO - Clicked on login back pack
+2019-09-29 12:07:13,528 - ebanking -INFO - Clicked on add to cart
+2019-09-29 12:07:13,669 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 12:07:28,059 - ebanking -INFO - URL is opened
+2019-09-29 12:07:28,276 - ebanking -INFO - Entered username
+2019-09-29 12:07:28,429 - ebanking -INFO - Entered password
+2019-09-29 12:07:29,074 - ebanking -INFO - Clicked on login button
+2019-09-29 12:07:29,217 - ebanking -INFO - Clicked on login back pack
+2019-09-29 12:07:29,289 - ebanking -INFO - Clicked on add to cart
+2019-09-29 12:07:29,431 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 12:11:38,208 - ebanking -INFO - URL is opened
+2019-09-29 12:11:38,447 - ebanking -INFO - Entered username
+2019-09-29 12:11:38,567 - ebanking -INFO - Entered password
+2019-09-29 12:11:39,422 - ebanking -INFO - Clicked on login button
+2019-09-29 12:11:39,571 - ebanking -INFO - Clicked on login back pack
+2019-09-29 12:11:39,632 - ebanking -INFO - Clicked on add to cart
+2019-09-29 12:11:39,772 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 12:11:39,987 - ebanking -INFO - Clicked on check out
+2019-09-29 12:14:05,109 - ebanking -INFO - URL is opened
+2019-09-29 12:14:05,322 - ebanking -INFO - Entered username
+2019-09-29 12:14:05,454 - ebanking -INFO - Entered password
+2019-09-29 12:14:05,993 - ebanking -INFO - Clicked on login button
+2019-09-29 12:14:06,100 - ebanking -INFO - Clicked on login back pack
+2019-09-29 12:14:06,159 - ebanking -INFO - Clicked on add to cart
+2019-09-29 12:14:06,292 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 12:14:06,726 - ebanking -INFO - Clicked on check out
+2019-09-29 12:15:46,843 - ebanking -INFO - URL is opened
+2019-09-29 12:15:47,070 - ebanking -INFO - Entered username
+2019-09-29 12:15:47,191 - ebanking -INFO - Entered password
+2019-09-29 12:15:47,751 - ebanking -INFO - Clicked on login button
+2019-09-29 12:15:47,912 - ebanking -INFO - Clicked on login back pack
+2019-09-29 12:15:47,966 - ebanking -INFO - Clicked on add to cart
+2019-09-29 12:15:48,098 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 12:15:48,222 - ebanking -INFO - Clicked on check out
+2019-09-29 12:15:49,598 - ebanking -INFO - Check out is completed
+2019-09-29 12:19:43,527 - ebanking -INFO - URL is opened
+2019-09-29 12:19:43,733 - ebanking -INFO - Entered username
+2019-09-29 12:19:43,896 - ebanking -INFO - Entered password
+2019-09-29 12:19:44,504 - ebanking -INFO - Clicked on login button
+2019-09-29 12:19:44,643 - ebanking -INFO - Clicked on login back pack
+2019-09-29 12:19:44,709 - ebanking -INFO - Clicked on add to cart
+2019-09-29 12:19:44,866 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 12:19:45,008 - ebanking -INFO - Clicked on check out
+2019-09-29 12:19:45,129 - ebanking -INFO - Type First name
+2019-09-29 12:19:45,227 - ebanking -INFO - Type Last name
+2019-09-29 12:19:45,327 - ebanking -INFO - Type Zipe code
+2019-09-29 12:19:45,457 - ebanking -INFO - Click on continue button
+2019-09-29 12:19:45,653 - ebanking -INFO - Click on finished button
+2019-09-29 12:21:11,536 - ebanking -INFO - URL is opened
+2019-09-29 12:21:11,760 - ebanking -INFO - Entered username
+2019-09-29 12:21:11,904 - ebanking -INFO - Entered password
+2019-09-29 12:21:12,553 - ebanking -INFO - Clicked on login button
+2019-09-29 12:21:12,604 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 12:21:13,125 - ebanking -INFO - Click on sing out button
+2019-09-29 12:21:13,137 - ebanking -INFO - Login Test Passed
+2019-09-29 12:21:14,596 - ebanking -INFO - URL is opened
+2019-09-29 12:21:14,794 - ebanking -INFO - Entered username
+2019-09-29 12:21:14,923 - ebanking -INFO - Entered password
+2019-09-29 12:21:15,493 - ebanking -INFO - Clicked on login button
+2019-09-29 12:21:15,661 - ebanking -INFO - Clicked on login back pack
+2019-09-29 12:21:15,715 - ebanking -INFO - Clicked on add to cart
+2019-09-29 12:21:15,844 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 12:21:15,971 - ebanking -INFO - Clicked on check out
+2019-09-29 12:21:16,110 - ebanking -INFO - Type First name
+2019-09-29 12:21:16,202 - ebanking -INFO - Type Last name
+2019-09-29 12:21:16,313 - ebanking -INFO - Type Zipe code
+2019-09-29 12:21:16,453 - ebanking -INFO - Click on continue button
+2019-09-29 12:21:16,622 - ebanking -INFO - Click on finished button
+2019-09-29 12:49:43,397 - ebanking -INFO - URL is opened
+2019-09-29 12:49:43,619 - ebanking -INFO - Entered username
+2019-09-29 12:49:43,738 - ebanking -INFO - Entered password
+2019-09-29 12:49:46,208 - ebanking -INFO - Clicked on login button
+2019-09-29 12:49:46,256 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 12:49:46,803 - ebanking -INFO - Click on sing out button
+2019-09-29 12:49:46,812 - ebanking -INFO - Login Test Passed
+2019-09-29 12:49:48,749 - ebanking -INFO - URL is opened
+2019-09-29 12:49:48,987 - ebanking -INFO - Entered username
+2019-09-29 12:49:49,096 - ebanking -INFO - Entered password
+2019-09-29 12:49:50,075 - ebanking -INFO - Clicked on login button
+2019-09-29 12:49:50,236 - ebanking -INFO - Clicked on login back pack
+2019-09-29 12:49:50,296 - ebanking -INFO - Clicked on add to cart
+2019-09-29 12:49:50,455 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 12:49:50,581 - ebanking -INFO - Clicked on check out
+2019-09-29 12:49:50,723 - ebanking -INFO - Type First name
+2019-09-29 12:49:50,802 - ebanking -INFO - Type Last name
+2019-09-29 12:49:50,890 - ebanking -INFO - Type Zipe code
+2019-09-29 12:49:51,398 - ebanking -INFO - Click on continue button
+2019-09-29 12:49:52,310 - ebanking -INFO - Click on finished button
+2019-09-29 12:49:54,241 - ebanking -INFO - URL is opened
+2019-09-29 12:49:54,448 - ebanking -INFO - Entered username
+2019-09-29 12:49:54,569 - ebanking -INFO - Entered password
+2019-09-29 12:49:56,381 - ebanking -INFO - Clicked on login button
+2019-09-29 12:49:56,498 - ebanking -INFO - Clicked on login back pack
+2019-09-29 12:49:56,578 - ebanking -INFO - Clicked on add to cart
+2019-09-29 12:49:56,702 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 12:49:56,929 - ebanking -INFO - Clicked on check out
+2019-09-29 12:49:57,049 - ebanking -INFO - Type First name
+2019-09-29 12:49:57,129 - ebanking -INFO - Type Last name
+2019-09-29 12:49:57,235 - ebanking -INFO - Type Zipe code
+2019-09-29 12:49:57,342 - ebanking -INFO - Click on continue button
+2019-09-29 12:49:57,560 - ebanking -INFO - Click on finished button
+2019-09-29 13:20:11,466 - ebanking -INFO - URL is opened
+2019-09-29 13:20:11,686 - ebanking -INFO - Entered username
+2019-09-29 13:20:11,816 - ebanking -INFO - Entered password
+2019-09-29 13:20:12,183 - ebanking -INFO - Clicked on login button
+2019-09-29 13:20:12,234 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 13:20:12,431 - ebanking -INFO - Click on sing out button
+2019-09-29 13:20:12,442 - ebanking -INFO - Login Test Passed
+2019-09-29 13:20:13,943 - ebanking -INFO - URL is opened
+2019-09-29 13:20:14,149 - ebanking -INFO - Entered username
+2019-09-29 13:20:14,292 - ebanking -INFO - Entered password
+2019-09-29 13:20:14,645 - ebanking -INFO - Clicked on login button
+2019-09-29 13:20:14,775 - ebanking -INFO - Clicked on login back pack
+2019-09-29 13:20:14,828 - ebanking -INFO - Clicked on add to cart
+2019-09-29 13:20:14,974 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 13:20:15,198 - ebanking -INFO - Clicked on check out
+2019-09-29 13:20:15,339 - ebanking -INFO - Type First name
+2019-09-29 13:20:15,424 - ebanking -INFO - Type Last name
+2019-09-29 13:20:15,514 - ebanking -INFO - Type Zipe code
+2019-09-29 13:20:15,959 - ebanking -INFO - Click on continue button
+2019-09-29 13:20:16,825 - ebanking -INFO - Click on finished button
+2019-09-29 13:20:18,212 - ebanking -INFO - URL is opened
+2019-09-29 13:20:18,413 - ebanking -INFO - Entered username
+2019-09-29 13:20:18,543 - ebanking -INFO - Entered password
+2019-09-29 13:20:18,886 - ebanking -INFO - Clicked on login button
+2019-09-29 13:20:19,041 - ebanking -INFO - Clicked on login back pack
+2019-09-29 13:20:19,098 - ebanking -INFO - Clicked on add to cart
+2019-09-29 13:20:19,219 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 13:20:19,348 - ebanking -INFO - Clicked on check out
+2019-09-29 13:20:19,484 - ebanking -INFO - Type First name
+2019-09-29 13:20:19,581 - ebanking -INFO - Type Last name
+2019-09-29 13:20:19,679 - ebanking -INFO - Type Zipe code
+2019-09-29 13:20:19,818 - ebanking -INFO - Click on continue button
+2019-09-29 13:20:19,968 - ebanking -INFO - Click on finished button
+2019-09-29 14:45:22,243 - ebanking -INFO - URL is opened
+2019-09-29 14:45:22,458 - ebanking -INFO - Entered username
+2019-09-29 14:45:22,627 - ebanking -INFO - Entered password
+2019-09-29 14:45:23,003 - ebanking -INFO - Clicked on login button
+2019-09-29 14:45:23,145 - ebanking -INFO - Clicked on login back pack
+2019-09-29 14:45:23,195 - ebanking -INFO - Clicked on add to cart
+2019-09-29 14:45:23,269 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 14:45:23,457 - ebanking -INFO - Clicked on All Items
+2019-09-29 14:45:23,606 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 14:47:01,643 - ebanking -INFO - URL is opened
+2019-09-29 14:47:01,867 - ebanking -INFO - Entered username
+2019-09-29 14:47:01,995 - ebanking -INFO - Entered password
+2019-09-29 14:47:02,388 - ebanking -INFO - Clicked on login button
+2019-09-29 14:47:02,527 - ebanking -INFO - Clicked on login back pack
+2019-09-29 14:47:02,593 - ebanking -INFO - Clicked on add to cart
+2019-09-29 14:47:02,655 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 14:47:02,857 - ebanking -INFO - Clicked on All Items
+2019-09-29 14:47:03,003 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 14:51:53,145 - ebanking -INFO - URL is opened
+2019-09-29 14:51:53,367 - ebanking -INFO - Entered username
+2019-09-29 14:51:53,492 - ebanking -INFO - Entered password
+2019-09-29 14:51:53,865 - ebanking -INFO - Clicked on login button
+2019-09-29 14:51:53,975 - ebanking -INFO - Clicked on login back pack
+2019-09-29 14:51:54,038 - ebanking -INFO - Clicked on add to cart
+2019-09-29 14:51:54,097 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 14:51:54,298 - ebanking -INFO - Clicked on All Items
+2019-09-29 14:51:54,480 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 14:56:46,124 - ebanking -INFO - URL is opened
+2019-09-29 14:56:46,330 - ebanking -INFO - Entered username
+2019-09-29 14:56:46,458 - ebanking -INFO - Entered password
+2019-09-29 14:56:46,838 - ebanking -INFO - Clicked on login button
+2019-09-29 14:56:46,971 - ebanking -INFO - Clicked on login back pack
+2019-09-29 14:56:47,028 - ebanking -INFO - Clicked on add to cart
+2019-09-29 14:56:47,094 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 14:56:47,293 - ebanking -INFO - Clicked on All Items
+2019-09-29 14:56:47,430 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:00:01,703 - ebanking -INFO - URL is opened
+2019-09-29 16:00:01,916 - ebanking -INFO - Entered username
+2019-09-29 16:00:02,051 - ebanking -INFO - Entered password
+2019-09-29 16:00:02,407 - ebanking -INFO - Clicked on login button
+2019-09-29 16:00:02,550 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:00:02,609 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:00:02,671 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:00:02,888 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:00:03,071 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:01:20,457 - ebanking -INFO - URL is opened
+2019-09-29 16:01:20,683 - ebanking -INFO - Entered username
+2019-09-29 16:01:20,811 - ebanking -INFO - Entered password
+2019-09-29 16:01:21,188 - ebanking -INFO - Clicked on login button
+2019-09-29 16:01:21,306 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:01:21,363 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:01:21,423 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:01:21,634 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:01:21,783 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:08:22,808 - ebanking -INFO - URL is opened
+2019-09-29 16:08:23,032 - ebanking -INFO - Entered username
+2019-09-29 16:08:23,161 - ebanking -INFO - Entered password
+2019-09-29 16:08:23,530 - ebanking -INFO - Clicked on login button
+2019-09-29 16:08:23,661 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:08:23,745 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:08:23,812 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:08:24,025 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:08:24,223 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:08:27,280 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:11:13,982 - ebanking -INFO - URL is opened
+2019-09-29 16:11:14,203 - ebanking -INFO - Entered username
+2019-09-29 16:11:14,346 - ebanking -INFO - Entered password
+2019-09-29 16:11:14,709 - ebanking -INFO - Clicked on login button
+2019-09-29 16:11:14,832 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:11:14,883 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:11:14,960 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:11:15,168 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:11:15,314 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:11:18,378 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:11:18,430 - ebanking -INFO - Clicked on Back button
+2019-09-29 16:14:02,359 - ebanking -INFO - URL is opened
+2019-09-29 16:14:02,581 - ebanking -INFO - Entered username
+2019-09-29 16:14:02,701 - ebanking -INFO - Entered password
+2019-09-29 16:14:03,045 - ebanking -INFO - Clicked on login button
+2019-09-29 16:14:03,175 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:14:03,254 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:14:03,324 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:14:03,542 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:14:03,736 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:14:06,789 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:14:06,863 - ebanking -INFO - Clicked on Back button
+2019-09-29 16:14:07,145 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 16:14:07,212 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:20:34,629 - ebanking -INFO - URL is opened
+2019-09-29 16:20:34,858 - ebanking -INFO - Entered username
+2019-09-29 16:20:34,998 - ebanking -INFO - Entered password
+2019-09-29 16:20:35,361 - ebanking -INFO - Clicked on login button
+2019-09-29 16:20:35,529 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:20:35,618 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:20:35,678 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:20:35,902 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:20:36,044 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:20:39,100 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:20:39,287 - ebanking -INFO - Clicked on Back button
+2019-09-29 16:20:39,420 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 16:20:39,491 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:26:35,200 - ebanking -INFO - URL is opened
+2019-09-29 16:26:35,415 - ebanking -INFO - Entered username
+2019-09-29 16:26:35,551 - ebanking -INFO - Entered password
+2019-09-29 16:26:35,909 - ebanking -INFO - Clicked on login button
+2019-09-29 16:26:36,038 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:26:36,104 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:26:36,152 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:26:36,351 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:26:36,533 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:26:39,591 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:26:39,636 - ebanking -INFO - Clicked on Back button
+2019-09-29 16:26:39,863 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 16:26:39,913 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:26:40,075 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 16:26:40,130 - ebanking -INFO - Clicked on Remove button
+2019-09-29 16:27:33,800 - ebanking -INFO - URL is opened
+2019-09-29 16:27:34,023 - ebanking -INFO - Entered username
+2019-09-29 16:27:34,152 - ebanking -INFO - Entered password
+2019-09-29 16:27:34,523 - ebanking -INFO - Clicked on login button
+2019-09-29 16:27:34,666 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:27:34,747 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:27:34,813 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:27:34,977 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:27:35,133 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:27:38,197 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:27:38,320 - ebanking -INFO - Clicked on Back button
+2019-09-29 16:27:38,485 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 16:27:38,549 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:27:38,689 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 16:27:38,750 - ebanking -INFO - Clicked on Remove button
+2019-09-29 16:30:31,439 - ebanking -INFO - URL is opened
+2019-09-29 16:30:31,660 - ebanking -INFO - Entered username
+2019-09-29 16:30:31,788 - ebanking -INFO - Entered password
+2019-09-29 16:30:32,188 - ebanking -INFO - Clicked on login button
+2019-09-29 16:30:32,347 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:30:32,402 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:30:32,461 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:30:32,675 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:30:32,813 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:30:35,875 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:30:36,002 - ebanking -INFO - Clicked on Back button
+2019-09-29 16:30:36,184 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 16:30:36,236 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:30:36,356 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 16:30:36,427 - ebanking -INFO - Clicked on Remove button
+2019-09-29 16:30:36,598 - ebanking -INFO - Clicked on check out
+2019-09-29 16:30:36,730 - ebanking -INFO - Type First name
+2019-09-29 16:30:36,848 - ebanking -INFO - Type Last name
+2019-09-29 16:30:36,928 - ebanking -INFO - Type Zipe code
+2019-09-29 16:30:37,093 - ebanking -INFO - Click on continue button
+2019-09-29 16:30:37,274 - ebanking -INFO - Click on finished button
+2019-09-29 16:36:15,414 - ebanking -INFO - URL is opened
+2019-09-29 16:36:15,633 - ebanking -INFO - Entered username
+2019-09-29 16:36:15,761 - ebanking -INFO - Entered password
+2019-09-29 16:36:16,144 - ebanking -INFO - Clicked on login button
+2019-09-29 16:36:16,189 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:36:16,365 - ebanking -INFO - Click on sing out button
+2019-09-29 16:36:16,374 - ebanking -INFO - Login Test Passed
+2019-09-29 16:36:17,921 - ebanking -INFO - URL is opened
+2019-09-29 16:36:18,144 - ebanking -INFO - Entered username
+2019-09-29 16:36:18,269 - ebanking -INFO - Entered password
+2019-09-29 16:36:18,699 - ebanking -INFO - Clicked on login button
+2019-09-29 16:36:18,822 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:36:18,906 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:36:19,044 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 16:36:19,159 - ebanking -INFO - Clicked on check out
+2019-09-29 16:36:19,290 - ebanking -INFO - Type First name
+2019-09-29 16:36:19,389 - ebanking -INFO - Type Last name
+2019-09-29 16:36:19,477 - ebanking -INFO - Type Zipe code
+2019-09-29 16:36:19,610 - ebanking -INFO - Click on continue button
+2019-09-29 16:36:19,800 - ebanking -INFO - Click on finished button
+2019-09-29 16:36:21,279 - ebanking -INFO - URL is opened
+2019-09-29 16:36:21,494 - ebanking -INFO - Entered username
+2019-09-29 16:36:21,609 - ebanking -INFO - Entered password
+2019-09-29 16:36:21,979 - ebanking -INFO - Clicked on login button
+2019-09-29 16:36:22,112 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:36:22,169 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:36:22,234 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:36:22,434 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:36:22,638 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:36:25,697 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:36:25,800 - ebanking -INFO - Clicked on Back button
+2019-09-29 16:36:26,005 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 16:36:26,061 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:36:26,204 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 16:36:26,278 - ebanking -INFO - Clicked on Remove button
+2019-09-29 16:36:26,404 - ebanking -INFO - Clicked on check out
+2019-09-29 16:36:26,576 - ebanking -INFO - Type First name
+2019-09-29 16:36:26,656 - ebanking -INFO - Type Last name
+2019-09-29 16:36:26,742 - ebanking -INFO - Type Zipe code
+2019-09-29 16:36:26,900 - ebanking -INFO - Click on continue button
+2019-09-29 16:36:27,050 - ebanking -INFO - Click on finished button
+2019-09-29 16:46:30,327 - ebanking -INFO - URL is opened
+2019-09-29 16:46:30,545 - ebanking -INFO - Entered username
+2019-09-29 16:46:30,679 - ebanking -INFO - Entered password
+2019-09-29 16:46:31,049 - ebanking -INFO - Clicked on login button
+2019-09-29 16:46:31,115 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:46:31,592 - ebanking -INFO - Click on sing out button
+2019-09-29 16:46:31,598 - ebanking -INFO - Login Test Passed
+2019-09-29 16:46:33,176 - ebanking -INFO - URL is opened
+2019-09-29 16:46:33,364 - ebanking -INFO - Entered username
+2019-09-29 16:46:33,510 - ebanking -INFO - Entered password
+2019-09-29 16:46:33,884 - ebanking -INFO - Clicked on login button
+2019-09-29 16:46:34,015 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:46:34,098 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:46:34,224 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 16:46:34,348 - ebanking -INFO - Clicked on check out
+2019-09-29 16:46:34,508 - ebanking -INFO - Type First name
+2019-09-29 16:46:34,595 - ebanking -INFO - Type Last name
+2019-09-29 16:46:34,700 - ebanking -INFO - Type Zipe code
+2019-09-29 16:46:34,831 - ebanking -INFO - Click on continue button
+2019-09-29 16:46:35,020 - ebanking -INFO - Click on finished button
+2019-09-29 16:46:36,574 - ebanking -INFO - URL is opened
+2019-09-29 16:46:36,768 - ebanking -INFO - Entered username
+2019-09-29 16:46:36,934 - ebanking -INFO - Entered password
+2019-09-29 16:46:37,297 - ebanking -INFO - Clicked on login button
+2019-09-29 16:46:37,412 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:46:37,488 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:46:37,538 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:46:37,754 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:46:37,978 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:46:41,034 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:46:41,163 - ebanking -INFO - Clicked on Back button
+2019-09-29 16:46:41,354 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 16:46:41,403 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:46:41,539 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 16:46:41,599 - ebanking -INFO - Clicked on Remove button
+2019-09-29 16:56:19,655 - ebanking -INFO - URL is opened
+2019-09-29 16:56:19,873 - ebanking -INFO - Entered username
+2019-09-29 16:56:20,010 - ebanking -INFO - Entered password
+2019-09-29 16:56:20,414 - ebanking -INFO - Clicked on login button
+2019-09-29 16:56:20,470 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:56:20,639 - ebanking -INFO - Click on sing out button
+2019-09-29 16:56:20,647 - ebanking -INFO - Login Test Passed
+2019-09-29 16:56:22,182 - ebanking -INFO - URL is opened
+2019-09-29 16:56:22,407 - ebanking -INFO - Entered username
+2019-09-29 16:56:22,547 - ebanking -INFO - Entered password
+2019-09-29 16:56:23,001 - ebanking -INFO - Clicked on login button
+2019-09-29 16:56:23,142 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:56:23,237 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:56:23,384 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 16:56:23,536 - ebanking -INFO - Clicked on check out
+2019-09-29 16:56:23,649 - ebanking -INFO - Type First name
+2019-09-29 16:56:23,748 - ebanking -INFO - Type Last name
+2019-09-29 16:56:23,849 - ebanking -INFO - Type Zipe code
+2019-09-29 16:56:23,982 - ebanking -INFO - Click on continue button
+2019-09-29 16:56:24,168 - ebanking -INFO - Click on finished button
+2019-09-29 16:56:25,702 - ebanking -INFO - URL is opened
+2019-09-29 16:56:25,914 - ebanking -INFO - Entered username
+2019-09-29 16:56:26,041 - ebanking -INFO - Entered password
+2019-09-29 16:56:26,420 - ebanking -INFO - Clicked on login button
+2019-09-29 16:56:26,553 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:56:26,660 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:56:26,746 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:56:26,955 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:56:27,099 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:56:27,168 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:56:27,275 - ebanking -INFO - Clicked on Back button
+2019-09-29 16:56:27,425 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 16:56:27,498 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:56:27,658 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 16:56:27,706 - ebanking -INFO - Clicked on Remove button
+2019-09-29 16:57:17,097 - ebanking -INFO - URL is opened
+2019-09-29 16:57:17,318 - ebanking -INFO - Entered username
+2019-09-29 16:57:17,439 - ebanking -INFO - Entered password
+2019-09-29 16:57:17,803 - ebanking -INFO - Clicked on login button
+2019-09-29 16:57:17,852 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:57:18,037 - ebanking -INFO - Click on sing out button
+2019-09-29 16:57:18,051 - ebanking -INFO - Login Test Passed
+2019-09-29 16:57:19,550 - ebanking -INFO - URL is opened
+2019-09-29 16:57:19,770 - ebanking -INFO - Entered username
+2019-09-29 16:57:19,893 - ebanking -INFO - Entered password
+2019-09-29 16:57:20,263 - ebanking -INFO - Clicked on login button
+2019-09-29 16:57:20,399 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:57:20,467 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:57:20,595 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 16:57:20,725 - ebanking -INFO - Clicked on check out
+2019-09-29 16:57:20,859 - ebanking -INFO - Type First name
+2019-09-29 16:57:20,950 - ebanking -INFO - Type Last name
+2019-09-29 16:57:21,036 - ebanking -INFO - Type Zipe code
+2019-09-29 16:57:21,171 - ebanking -INFO - Click on continue button
+2019-09-29 16:57:21,325 - ebanking -INFO - Click on finished button
+2019-09-29 16:57:22,873 - ebanking -INFO - URL is opened
+2019-09-29 16:57:23,076 - ebanking -INFO - Entered username
+2019-09-29 16:57:23,200 - ebanking -INFO - Entered password
+2019-09-29 16:57:23,589 - ebanking -INFO - Clicked on login button
+2019-09-29 16:57:23,727 - ebanking -INFO - Clicked on login back pack
+2019-09-29 16:57:23,807 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:57:23,870 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 16:57:24,087 - ebanking -INFO - Clicked on All Items
+2019-09-29 16:57:24,283 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 16:57:24,354 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:57:24,479 - ebanking -INFO - Clicked on Back button
+2019-09-29 16:57:24,683 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 16:57:24,736 - ebanking -INFO - Clicked on add to cart
+2019-09-29 16:57:24,897 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 16:57:24,947 - ebanking -INFO - Clicked on Remove button
+2019-09-29 16:57:32,079 - ebanking -INFO - Clicked on check out
+2019-09-29 16:57:32,215 - ebanking -INFO - Type First name
+2019-09-29 16:57:32,364 - ebanking -INFO - Type Last name
+2019-09-29 16:57:32,439 - ebanking -INFO - Type Zipe code
+2019-09-29 16:57:32,588 - ebanking -INFO - Click on continue button
+2019-09-29 16:57:32,768 - ebanking -INFO - Click on finished button
+2019-09-29 17:01:59,447 - ebanking -INFO - URL is opened
+2019-09-29 17:01:59,695 - ebanking -INFO - Entered username
+2019-09-29 17:01:59,829 - ebanking -INFO - Entered password
+2019-09-29 17:02:00,193 - ebanking -INFO - Clicked on login button
+2019-09-29 17:02:00,244 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 17:02:00,425 - ebanking -INFO - Click on sing out button
+2019-09-29 17:02:00,433 - ebanking -INFO - Login Test Passed
+2019-09-29 17:02:02,258 - ebanking -INFO - URL is opened
+2019-09-29 17:02:02,459 - ebanking -INFO - Entered username
+2019-09-29 17:02:02,595 - ebanking -INFO - Entered password
+2019-09-29 17:02:03,009 - ebanking -INFO - Clicked on login button
+2019-09-29 17:02:03,135 - ebanking -INFO - Clicked on login back pack
+2019-09-29 17:02:03,197 - ebanking -INFO - Clicked on add to cart
+2019-09-29 17:02:03,330 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 17:02:03,463 - ebanking -INFO - Clicked on check out
+2019-09-29 17:02:03,614 - ebanking -INFO - Type First name
+2019-09-29 17:02:03,690 - ebanking -INFO - Type Last name
+2019-09-29 17:02:03,792 - ebanking -INFO - Type Zipe code
+2019-09-29 17:02:03,921 - ebanking -INFO - Click on continue button
+2019-09-29 17:02:04,155 - ebanking -INFO - Click on finished button
+2019-09-29 17:02:05,760 - ebanking -INFO - URL is opened
+2019-09-29 17:02:05,982 - ebanking -INFO - Entered username
+2019-09-29 17:02:06,107 - ebanking -INFO - Entered password
+2019-09-29 17:02:06,504 - ebanking -INFO - Clicked on login button
+2019-09-29 17:02:06,646 - ebanking -INFO - Clicked on login back pack
+2019-09-29 17:02:06,717 - ebanking -INFO - Clicked on add to cart
+2019-09-29 17:02:06,776 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 17:02:06,969 - ebanking -INFO - Clicked on All Items
+2019-09-29 17:02:07,163 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 17:02:07,223 - ebanking -INFO - Clicked on add to cart
+2019-09-29 17:02:07,338 - ebanking -INFO - Clicked on Back button
+2019-09-29 17:02:07,499 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 17:02:07,560 - ebanking -INFO - Clicked on add to cart
+2019-09-29 17:02:07,705 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 17:02:07,778 - ebanking -INFO - Clicked on Remove button
+2019-09-29 17:02:14,897 - ebanking -INFO - Clicked on check out
+2019-09-29 17:02:15,052 - ebanking -INFO - Type First name
+2019-09-29 17:02:15,129 - ebanking -INFO - Type Last name
+2019-09-29 17:02:15,224 - ebanking -INFO - Type Zipe code
+2019-09-29 17:02:15,363 - ebanking -INFO - Click on continue button
+2019-09-29 17:02:15,518 - ebanking -INFO - Click on finished button
+2019-09-29 17:23:51,120 - ebanking -INFO - URL is opened
+2019-09-29 17:23:51,333 - ebanking -INFO - Entered username
+2019-09-29 17:23:51,476 - ebanking -INFO - Entered password
+2019-09-29 17:23:51,834 - ebanking -INFO - Clicked on login button
+2019-09-29 17:23:51,881 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 17:23:52,081 - ebanking -INFO - Click on sing out button
+2019-09-29 17:23:52,087 - ebanking -INFO - Login Test Passed
+2019-09-29 17:23:53,629 - ebanking -INFO - URL is opened
+2019-09-29 17:23:53,834 - ebanking -INFO - Entered username
+2019-09-29 17:23:53,946 - ebanking -INFO - Entered password
+2019-09-29 17:23:54,319 - ebanking -INFO - Clicked on login button
+2019-09-29 17:23:54,448 - ebanking -INFO - Clicked on login back pack
+2019-09-29 17:23:54,537 - ebanking -INFO - Clicked on add to cart
+2019-09-29 17:23:54,673 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 17:23:54,799 - ebanking -INFO - Clicked on check out
+2019-09-29 17:23:54,969 - ebanking -INFO - Type First name
+2019-09-29 17:23:55,060 - ebanking -INFO - Type Last name
+2019-09-29 17:23:55,161 - ebanking -INFO - Type Zipe code
+2019-09-29 17:23:55,309 - ebanking -INFO - Click on continue button
+2019-09-29 17:23:55,450 - ebanking -INFO - Click on finished button
+2019-09-29 17:23:56,973 - ebanking -INFO - URL is opened
+2019-09-29 17:23:57,186 - ebanking -INFO - Entered username
+2019-09-29 17:23:57,310 - ebanking -INFO - Entered password
+2019-09-29 17:23:57,691 - ebanking -INFO - Clicked on login button
+2019-09-29 17:23:57,848 - ebanking -INFO - Clicked on login back pack
+2019-09-29 17:23:57,902 - ebanking -INFO - Clicked on add to cart
+2019-09-29 17:23:57,953 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 17:23:58,210 - ebanking -INFO - Clicked on All Items
+2019-09-29 17:23:58,376 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 17:23:58,430 - ebanking -INFO - Clicked on add to cart
+2019-09-29 17:23:58,527 - ebanking -INFO - Clicked on Back button
+2019-09-29 17:23:58,709 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 17:23:58,775 - ebanking -INFO - Clicked on add to cart
+2019-09-29 17:23:58,932 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 17:23:59,006 - ebanking -INFO - Clicked on Remove button
+2019-09-29 17:23:59,131 - ebanking -INFO - Clicked on check out
+2019-09-29 17:23:59,252 - ebanking -INFO - Type First name
+2019-09-29 17:23:59,334 - ebanking -INFO - Type Last name
+2019-09-29 17:23:59,428 - ebanking -INFO - Type Zipe code
+2019-09-29 17:23:59,558 - ebanking -INFO - Click on continue button
+2019-09-29 17:23:59,719 - ebanking -INFO - Click on finished button
+2019-09-29 18:30:53,496 - ebanking -INFO - URL is opened
+2019-09-29 18:31:02,922 - ebanking -INFO - Entered username
+2019-09-29 18:31:03,050 - ebanking -INFO - Entered password
+2019-09-29 18:31:03,609 - ebanking -INFO - Clicked on login button
+2019-09-29 18:31:03,678 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 18:31:03,860 - ebanking -INFO - Click on sing out button
+2019-09-29 18:31:03,873 - ebanking -INFO - Login Test Passed
+2019-09-29 18:31:05,425 - ebanking -INFO - URL is opened
+2019-09-29 18:31:05,621 - ebanking -INFO - Entered username
+2019-09-29 18:31:05,754 - ebanking -INFO - Entered password
+2019-09-29 18:31:06,254 - ebanking -INFO - Clicked on login button
+2019-09-29 18:31:06,400 - ebanking -INFO - Clicked on login back pack
+2019-09-29 18:31:06,455 - ebanking -INFO - Clicked on add to cart
+2019-09-29 18:31:06,626 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 18:31:06,842 - ebanking -INFO - Clicked on check out
+2019-09-29 18:31:06,960 - ebanking -INFO - Type First name
+2019-09-29 18:31:07,064 - ebanking -INFO - Type Last name
+2019-09-29 18:31:07,157 - ebanking -INFO - Type Zipe code
+2019-09-29 18:31:07,324 - ebanking -INFO - Click on continue button
+2019-09-29 18:31:07,617 - ebanking -INFO - Click on finished button
+2019-09-29 18:31:09,267 - ebanking -INFO - URL is opened
+2019-09-29 18:31:09,478 - ebanking -INFO - Entered username
+2019-09-29 18:31:09,596 - ebanking -INFO - Entered password
+2019-09-29 18:31:10,225 - ebanking -INFO - Clicked on login button
+2019-09-29 18:31:10,366 - ebanking -INFO - Clicked on login back pack
+2019-09-29 18:31:10,443 - ebanking -INFO - Clicked on add to cart
+2019-09-29 18:31:10,494 - ebanking -INFO - Clicked on Menu Bar
+2019-09-29 18:31:10,700 - ebanking -INFO - Clicked on All Items
+2019-09-29 18:31:10,861 - ebanking -INFO - Clicked on Bolt T-shirt
+2019-09-29 18:31:10,948 - ebanking -INFO - Clicked on add to cart
+2019-09-29 18:31:11,023 - ebanking -INFO - Clicked on Back button
+2019-09-29 18:31:11,233 - ebanking -INFO - Clicked on Fleece Jacket
+2019-09-29 18:31:11,284 - ebanking -INFO - Clicked on add to cart
+2019-09-29 18:31:11,417 - ebanking -INFO - Clicked on Shopping cart
+2019-09-29 18:31:11,481 - ebanking -INFO - Clicked on Remove button
+2019-09-29 18:31:11,608 - ebanking -INFO - Clicked on check out
+2019-09-29 18:31:11,761 - ebanking -INFO - Type First name
+2019-09-29 18:31:11,849 - ebanking -INFO - Type Last name
+2019-09-29 18:31:11,942 - ebanking -INFO - Type Zipe code
+2019-09-29 18:31:12,098 - ebanking -INFO - Click on continue button
+2019-09-29 18:31:12,276 - ebanking -INFO - Click on finished button

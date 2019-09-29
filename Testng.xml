@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SauceDemoFW">
+
+	<listeners>
+		<listener class-name="com.SwagLabs.utilities.Reporting" />
+	</listeners>
+
+
+	<test name="SwagLabs Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.SwagLabs.testCases.TC_LoginTest_01" />
+			<class name="com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_02" />
+			<class name="com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_03" />
+		</classes>
+	</test>
+
+</suite>

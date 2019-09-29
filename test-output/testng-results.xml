@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SauceDemoFW" duration-ms="50834" started-at="2019-09-29T22:30:21Z" finished-at="2019-09-29T22:31:12Z">
+    <groups>
+    </groups>
+    <test name="SwagLabs Test" duration-ms="50834" started-at="2019-09-29T22:30:21Z" finished-at="2019-09-29T22:31:12Z">
+      <class name="com.SwagLabs.testCases.TC_LoginTest_01">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.SwagLabs.testCases.TC_LoginTest_01@6eebc39e]" name="setup" is-config="true" duration-ms="31756" started-at="2019-09-29T22:30:21Z" finished-at="2019-09-29T22:30:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.SwagLabs.testCases.TC_LoginTest_01@6eebc39e]" name="loginTest" duration-ms="10382" started-at="2019-09-29T22:30:53Z" finished-at="2019-09-29T22:31:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.SwagLabs.testCases.TC_LoginTest_01@6eebc39e]" name="tearDown" is-config="true" duration-ms="93" started-at="2019-09-29T22:31:03Z" finished-at="2019-09-29T22:31:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SwagLabs.testCases.TC_LoginTest_01 -->
+      <class name="com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_03">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_03@f6c48ac]" name="setup" is-config="true" duration-ms="1554" started-at="2019-09-29T22:31:07Z" finished-at="2019-09-29T22:31:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_03@f6c48ac]" name="loginTest" duration-ms="3011" started-at="2019-09-29T22:31:09Z" finished-at="2019-09-29T22:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_03@f6c48ac]" name="tearDown" is-config="true" duration-ms="130" started-at="2019-09-29T22:31:12Z" finished-at="2019-09-29T22:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_03 -->
+      <class name="com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_02">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_02@464bee09]" name="setup" is-config="true" duration-ms="1443" started-at="2019-09-29T22:31:03Z" finished-at="2019-09-29T22:31:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_02@464bee09]" name="loginTest" duration-ms="2195" started-at="2019-09-29T22:31:05Z" finished-at="2019-09-29T22:31:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_02@464bee09]" name="tearDown" is-config="true" duration-ms="93" started-at="2019-09-29T22:31:07Z" finished-at="2019-09-29T22:31:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SwagLabs.testCases.TC_FuctionalTest_BuyProduct_02 -->
+    </test> <!-- SwagLabs Test -->
+  </suite> <!-- SauceDemoFW -->
+</testng-results>
